@@ -18,10 +18,10 @@ Numpy
 This project focuses on analyzing Diwali sales data to uncover valuable insights and trends. Using Python and Jupyter Notebook, the analysis includes data cleaning, exploratory data analysis (EDA), and data visualization to better understand sales patterns during the Diwali period. The insights derived from this analysis can help in making informed business decisions and identifying key factors influencing sales. The project utilizes popular data analysis libraries such as Pandas, Matplotlib, Seaborn, and Numpy to process and visualize the data effectively.
 # Analysis Overview
 The analysis in the Jupyter Notebook covers the following steps:
-Data Loading: Loading the Diwali sales data from the CSV file.
-Data Cleaning: Handling missing values, correcting data types, and other preprocessing steps.
-Exploratory Data Analysis (EDA): Analyzing the distribution of sales, identifying trends, and visualizing key metrics.
-Visualizations: Creating various plots and charts to represent the sales data visually.
+1. Data Loading: Loading the Diwali sales data from the CSV file.
+2. Data Cleaning: Handling missing values, correcting data types, and other preprocessing steps.
+3. Exploratory Data Analysis (EDA): Analyzing the distribution of sales, identifying trends, and visualizing key metrics.
+4. Visualizations: Creating various plots and charts to represent the sales data visually.
 # Results
 The analysis provides insights into:
 Sales trends during the Diwali period.
